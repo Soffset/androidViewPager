@@ -7,4 +7,9 @@
     <string name="login_button_text">Sign In</string>
     <string name="forgot_password_text">Forgot your password?</string>
     <string name="sign_up_text">Doesn\'t have an account? *Sign up*</string>
+
+    <string name="tab_item_reading">Reading</string>
+    <string name="tab_item_to_read">To read</string>
+    <string name="tab_item_read">Read</string>
+    <string name="tab_item_quitted">Quitted</string>
 </resources>

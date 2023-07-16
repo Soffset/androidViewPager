@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="formInput" parent="@style/Widget.Material3.TextInputLayout.FilledBox" >
+        <item name="boxStrokeColor">@color/colorPrimary</item>
+        <item name="boxStrokeWidth">2dp</item>
+        <item name="startIconTint">@color/colorPrimary</item>
+
+        <item name="android:textColorHint">@color/grayLight</item>
+    </style>
+</resources>
